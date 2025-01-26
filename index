@@ -8,7 +8,7 @@
         body {
             font-family: Arial, sans-serif;
             direction: rtl;
-            text-align: right;
+            text-align: center;
             background-color: #f4f4f4;
             margin: 0;
             padding: 0;
@@ -44,11 +44,15 @@
             color: #333;
             margin-top: 20px;
         }
+        .logo {
+            max-width: 100%;
+            height: auto;
+        }
     </style>
 </head>
 <body>
     <header>
-        <h1>شركة التوصيل مع زايدي محمد زهار</h1>
+        <img src="https://raw.githubusercontent.com/rahmounrbh/zoubir.littawssil/refs/heads/main/img_1737926827587.png" alt="شركة التوصيل مع زايدي محمد زهار" class="logo">
     </header>
     <div class="container">
         <div class="slogan">
